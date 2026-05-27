@@ -1,0 +1,25 @@
+# Données (trop volumineuses / confidentielles)
+*.csv
+*.npy
+*.json
+
+# Figures générées
+*.png
+*.jpg
+
+# Documents Word
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environnement
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store

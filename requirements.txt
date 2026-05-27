@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+sentence-transformers
+faiss-cpu
+openai
+scipy
+matplotlib
+tqdm
