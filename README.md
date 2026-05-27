@@ -4,7 +4,7 @@ Mémoire de master — Code source complet du pipeline expérimental.
 
 ## Problématique
 
-Peut-on améliorer la prédiction du churn client en enrichissant des features structurelles (RFM, logistique) avec l'information textuelle extraite des avis clients, via un pipeline RAG (Retrieval-Augmented Generation) ?
+Dans quelle mesure une extraction sémantique structurée via un pipeline RAG améliore-t-elle la prédiction du churn client par rapport aux données structurées seules ou aux embeddings contextuels ?
 
 ## Données
 
